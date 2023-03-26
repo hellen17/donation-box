@@ -1,0 +1,9 @@
+.progress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 5%;
+    background: linear-gradient(90deg, #fb7624 0%, #fb7624 70%, #E5E7EB 60%, #E5E7EB 100%);
+    z-index: -1;
+}

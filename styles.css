@@ -7,3 +7,10 @@
     background: linear-gradient(90deg, #fb7624 0%, #fb7624 70%, #E5E7EB 60%, #E5E7EB 100%);
     z-index: -1;
 }
+
+input::placeholder {
+    font-weight: bold;
+    text-align: left;
+    font-size: large;
+    color: black;
+}
